@@ -1,6 +1,6 @@
 # Gradient Descent and BCGD methods
 
-This work was done has homework for an optimization course. 
+This work was done as homework for an optimization course. 
 
 Collaborators: F. Boldrini, C. Colanero, N. Rinaldi
 
